@@ -1,5 +1,6 @@
 ## LLAMA based data-classification
 
+<img src="arch.png" width="100%">
 
 ### install ollama 
 https://ollama.com/download 
