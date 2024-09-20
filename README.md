@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=rXGN8ISRR-0
 ### In this repo we are trying to build an intelligent data-classification tool.
 
 1. You want to classify data at hand so you can handle it properly ?
-2. You want to mask it so you can use it for your data traning or testing ?
+2. You want to mask it so you can use it for your data training or testing ?
 
 - But you are not willing to pay money to tools like google DLP or opaque like tools which charges you significant amount of money for the data you want to scan and mask.
 - the LLM technology in place this can be replaced with small deployment on your machine with ollama installed using llama 3.1 8B model 
