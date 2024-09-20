@@ -27,7 +27,7 @@ structured_llm = llm.with_structured_output(PII)
 llama_chain = prompt | structured_llm 
 
 # Chain for DLP API
-credentials_file = "/Users/ybhavnasi/keys/dev/autolog-control.json"
+credentials_file = ""
 
 from google.cloud import storage 
 import json
