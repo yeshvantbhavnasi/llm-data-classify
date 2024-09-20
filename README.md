@@ -4,7 +4,7 @@
 
 
 ## demo 
-![Demo video](https://www.youtube.com/watch?v=rXGN8ISRR-0 )
+https://www.youtube.com/watch?v=rXGN8ISRR-0
 
 ### In this repo we are trying to build an intelligent data-classification tool.
 
